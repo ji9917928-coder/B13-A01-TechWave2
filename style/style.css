@@ -1,7 +1,27 @@
 @media screen and (max-width: 576px) {
+ 
       nav{
         padding: 0 20px;
         justify-content: space-between ;
       }
-      
-}
+      .first2{
+       background-size:contain;
+       background-position: center 119px;
+       background-repeat: no-repeat;
+      }
+      .first3{
+        width: 200px;
+        height: 200px;
+      }
+      .first4 {
+        width: 48px;
+        height: 69px;
+        margin-left: 35%;
+        margin-top: 28%;
+        
+      }
+      .first55{
+        font-size: 2.5rem;
+      }
+  
+    }

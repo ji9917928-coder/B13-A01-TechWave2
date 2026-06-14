@@ -1,13 +1,20 @@
-@media screen and (max-width: 576px) {
- 
+ @media screen and (max-width: 576px) {
+       nav{
+        padding: 0 10px;
+       }
       nav{
         padding: 0 20px;
         justify-content: space-between ;
       }
       .first2{
-       background-size:contain;
+      height:auto;
+       background-size:100%;
        background-position: center 119px;
        background-repeat: no-repeat;
+       margin-bottom: 20px;
+      }
+      .first56{
+        margin-top: 15px;
       }
       .first3{
         width: 200px;
@@ -24,4 +31,5 @@
         font-size: 2.5rem;
       }
   
-    }
+    } 
+     

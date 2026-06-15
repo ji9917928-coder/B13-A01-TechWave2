@@ -30,6 +30,17 @@
       .first55{
         font-size: 2.5rem;
       }
+      .media{
+        flex-direction: column;
+        text-align: center;
+      }
+      .media-icon{
+         justify-content: center;
+      }
+      
+
+        
+      
   
     } 
      
